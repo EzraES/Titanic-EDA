@@ -1,0 +1,2 @@
+# Titanic-EDA
+-basic cleansing
