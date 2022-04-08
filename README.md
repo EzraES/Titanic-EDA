@@ -1,7 +1,12 @@
-# Titanic-EDA
-This notebook dataset was download from kaggle website. The notebook performs basic cleansing and EDA on the titanic data set
+# Vidio Games Sales Analysis
+This notebook dataset was download from kaggle website. The notebook performs basic cleansing and EDA on the vgames data set https://www.kaggle.com/search?q=vgsales
 
 Multiple packages were used in the notebook:
 - pandas
 - seaborn
 - matplotlib.pyplot
+- Sklearn
+
+Work Order
+- EDA
+- 
